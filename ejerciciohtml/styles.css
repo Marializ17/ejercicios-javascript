@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.cabeza{
+    width: 360px;
+    height: 360px;
+    border-color: salmon;
+    background-color: salmon;
+    padding-top: 120px;
+}
+
+.ojo{
+    width: 100px;
+    height: 100px;
+    border-color: beige;
+    background-color: beige;
+    margin-left: 260px;
+    padding-top: 30px;
+    padding-left: 75px;
+}
+
+.pupila{
+    width: 25px;
+    height: 25px;
+    border-color: brown;
+    background-color: brown;
+}
+
+.boca{
+    width: 200px;
+    height: 25px;
+    border-color: red;
+    background-color: red;
+    margin-left: 160px;
+    margin-top: 50px;
+}
+.cuerpo{
+    width: 300px;
+    height: 300px;
+    border-color: aquamarine;
+    background-color: aquamarine;
+    padding-top: 100px;
+    padding-left: 200px;
+}
+
+.brazo{
+    width: 150px;
+    height: 50px;
+    border-color: black;
+    background-color: black;
+}
+.texto{
+    width: 200px;
+    height: 100px;
+    border-style: dashed;
+    border-color: red;
+    margin-left: 400px;
+    margin-bottom: 100px;
+}
